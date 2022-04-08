@@ -1,0 +1,39 @@
+Sendo um usuário cadastrado no site das lojas Americanas
+Quero conhecer o menu de produtos
+Para que eu possa uma fazer compra
+
+Cenário: Busca por produto
+
+Dado que acesso o menu do site
+Quando busco por celular iphone 6
+Então devo ser redirecionado para a página com os modelos
+
+Resultado Esperado: Passou com sucesso
+
+
+Cenário: Adicionar Produto ao carrinho
+
+Dado que escolhe o produto
+Quando adiciono ao carrinho
+Então ele devo encontrar o produto certo
+
+Resultado Esperado: Passou com sucesso
+
+Cenário: Alterar quantidade
+
+Dado que escolhido o produto 
+Quando altero a quantidade 
+Então devo vê-la alterada corretamente
+
+Resultado Esperado: Passou com sucesso
+
+Cenário: Excluir Produto
+
+Dado que não quero mais o produto
+Quando clico na opção Remover
+Então o produto deve ser removido da cesta
+
+Resultado Esperado: Passou com sucesso
+
+
+
