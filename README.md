@@ -9,10 +9,13 @@ site das lojas Americanas:
 
 1.
 Acessar o site ou app de e-commerce escolhido por você 
+
 2.
 Realizar uma busca por produto
+
 3.
 Adicionar o produto no carrinho
+
 4.
 Alterar a quantidade de itens do produto no carrinho
 5.
