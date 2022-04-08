@@ -18,6 +18,7 @@ Adicionar o produto no carrinho
 
 4.
 Alterar a quantidade de itens do produto no carrinho
+
 5.
 Remover o produto do carrinho
 
